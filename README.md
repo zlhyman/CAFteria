@@ -4,12 +4,11 @@ A stylish, coffee-themed converter that transforms .caf (Core Audio Format) file
 
 ## Features
 
-- Beautiful coffee-themed interface
+- Coffee-themed interface
 - Drag-and-drop file upload
-- Multiple file conversion support
 - Coffee cup loading animation
 - Direct save to Downloads folder
-- Preserves original file names
+- Preserves original file names (or tries - struggles a bit with Chinese characters)
 
 ## Prerequisites
 
