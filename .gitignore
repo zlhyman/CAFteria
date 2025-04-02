@@ -1,0 +1,5 @@
+__pycache__/
+uploads/
+converted/
+.DS_Store
+*.pyc
