@@ -1,6 +1,6 @@
 # CAFteria ☕
 
-A stylish, coffee-themed converter that transforms .caf (Core Audio Format) files into .mp3 format.
+A moderately caffeinated, single-purpose converter that transforms .caf (Core Audio Format) files into .mp3 format.
 
 ## Features
 
